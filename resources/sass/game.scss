@@ -1,0 +1,93 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+.information {
+    background: theme-color-level("success", -5);
+    border-radius: 16px;
+}
+
+.media{
+    margin: 0.5em;
+}
+
+.media-body{
+    padding: 0.5em 1em 0.5em 0.5em;
+}
+
+.game-master{
+    margin-bottom: -1em;
+}
+
+#chat{
+    max-height: calc(100% - 7em);
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.icon{
+    width: 32px;
+    height: 32px;
+}
+
+.game-nav{
+    bottom: 0;
+    z-index: 11;
+}
+
+.private {
+    background: var(--warning) !important;
+    color: var(--white) !important;
+}
+
+.self{
+    background: var(--primary);
+    color: var(--white);
+    border-radius: 0.5rem 0.5rem 0 0.5rem !important;
+}
+
+.other{
+    background: $gray-300;
+    border-radius: 0.5rem 0.5rem 0.5rem 0 !important;
+}
+
+.nav-item{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+#message{
+    max-width: 22em;
+}
+
+.board-background{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+#chat::-webkit-scrollbar {
+    width: 10px;
+    padding: 2px;
+}
+
+#chat::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+#chat::-webkit-scrollbar-thumb {
+    background: #757575;
+    border-radius: 1rem;
+}
+
+#chat::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+#board {
+    position: relative;
+}
+
+#board img {
+    max-height: calc(100vh - 58px);
+    position: absolute;
+    user-select: none;
+}
