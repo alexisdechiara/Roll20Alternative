@@ -1,2 +1,2 @@
 # Roll20Alternative
-Projet Étudiant DUT S4
+Projet Étudiant (en groupe) DUT S4
