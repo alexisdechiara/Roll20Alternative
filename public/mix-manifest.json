@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/create.js": "/js/create.js",
+    "/js/game.js": "/js/game.js",
+    "/js/join.js": "/js/join.js",
+    "/js/profile.js": "/js/profile.js",
+    "/js/characters.js": "/js/characters.js",
+    "/js/character_edit.js": "/js/character_edit.js",
+    "/css/app.css": "/css/app.css",
+    "/css/game.css": "/css/game.css",
+    "/css/roll20Alternative.css": "/css/roll20Alternative.css",
+    "/css/style.css": "/css/style.css"
+}
