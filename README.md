@@ -5,7 +5,7 @@
 ### Enseignants :
   - Gaetan Rey
   - Christel Dartigues-Pallez
-  - 
+ 
 ### Membres :
   - Alexis De Chiara
   - Thomas Farineau
